@@ -1,0 +1,18 @@
+Ex1:
+./a.out 01*
+Resultado: 0, 01, 011,...
+
+
+Ex2:
+./a.out 01^+
+Resultado: 01, 011, 0111,...
+
+
+Ex3:
+./a.out (01)^+
+Resultado: 01, 0101, 010101,...
+
+
+Ex4:
+./a.out (a+b)a*
+Resultado: a, b, aa, ba, aaa, baa, aaaa, baaa, ...
